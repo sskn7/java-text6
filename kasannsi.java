@@ -23,6 +23,12 @@ public class kasannsi {
 		System.out.println(--c);
 		System.out.println(--c);
 		
+		//後置減算子 aを表示させた後1を引く
+		int d = 10;
+		System.out.println(d--);
+		System.out.println(d--);
+		System.out.println(d--);
+		System.out.println(d--);
 	}
 
 }
